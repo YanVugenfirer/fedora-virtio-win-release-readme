@@ -4,6 +4,19 @@ This page describes where to find the **virtio-win** drivers for Windows guests 
 
 ---
 
+## Summary
+
+For most users, the **latest stable release** directory is the right place to download the virtio-win ISO or installers.
+
+| Purpose                   | Location        | URL base                                                                 |
+|---------------------------|-----------------|--------------------------------------------------------------------------|
+| Latest stable             | Stable          | [.../stable-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/) |
+| Latest                    | Latest          | [.../latest-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/latest-virtio/) |
+| Older or specific version | Archive         | [.../archive-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/) |
+| Unstable / upstream       | Upstream        | [.../upstream-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/upstream-virtio/) |
+
+---
+
 ## Download Locations
 
 ### 1. Latest stable release
@@ -44,13 +57,3 @@ Pre-release and upstream builds. These are **not** stable; use only for testing 
 
 ---
 
-## Summary
-
-| Purpose                   | Location        | URL base                                                                 |
-|---------------------------|-----------------|--------------------------------------------------------------------------|
-| Latest stable             | Stable          | [.../stable-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/) |
-| Latest                    | Latest          | [.../latest-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/latest-virtio/) |
-| Older or specific version | Archive         | [.../archive-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/) |
-| Unstable / upstream       | Upstream        | [.../upstream-virtio/](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/upstream-virtio/) |
-
-For most users, the **latest stable release** directory is the right place to download the virtio-win ISO or installers.
