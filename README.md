@@ -48,9 +48,9 @@ Pre-release and upstream builds. These are **not** stable; use only for testing 
 
 | Purpose                   | Location        | URL base                                                                 |
 |---------------------------|-----------------|--------------------------------------------------------------------------|
-| Latest stable             | Current release | `.../stable-virtio/`                               |
-| Latest                    | Current release | `.../latest-virtio/`                               |
-| Older or specific version | Archive         | `.../archive-virtio/`                                                    |
-| Unstable / upstream       | Upstream        | `.../upstream-virtio/`                                                   |
+| Latest stable             | Current release | **URL:** [.../stable-virtio/][https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/] |
+| Latest                    | Current release | **URL:** [.../latest-virtio/][https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/latest-virtio/] |
+| Older or specific version | Archive         | **URL:** [.../archive-virtio/][https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/] |
+| Unstable / upstream       | Upstream        | **URL:** [.../upstream-virtio/][https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/upstream-virtio/] |
 
 For most users, the **latest stable release** directory is the right place to download the virtio-win ISO or installers.
